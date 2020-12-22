@@ -1,0 +1,3 @@
+# Exercise 6 from Methods chapter
+
+This error message tells us that the method named calculate_product expects 2 arguments but it was only passed 1. To call it correctly, it needs 2 arguments sent.

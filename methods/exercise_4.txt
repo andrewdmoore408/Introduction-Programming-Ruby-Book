@@ -1,0 +1,3 @@
+# exercise 4 from Methods chapter
+
+This code will print nothing to the screen, since the method returns before the puts command.
