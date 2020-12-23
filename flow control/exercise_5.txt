@@ -1,0 +1,5 @@
+# exercise_5.txt
+
+This error is because the code is missing an end keyword. There needs to be an "end" both to mark the end of the if/else sequence and the method definition itself.
+
+Adding a second "end" keyword will resolve this error.

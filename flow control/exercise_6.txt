@@ -1,0 +1,8 @@
+# exercise_6.txt
+
+1. error: types need to match
+2. error: types need to match -- WRONG: false
+3. false
+4. true
+5. false
+6. true
