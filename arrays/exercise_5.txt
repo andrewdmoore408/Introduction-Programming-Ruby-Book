@@ -1,0 +1,5 @@
+# exercise_5
+
+a = 'e'
+b = 'A'
+c = nil (past the end of the string)

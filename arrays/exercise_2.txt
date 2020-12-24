@@ -1,0 +1,7 @@
+# exercise_2
+
+1. This program returns the number 1, which has been deleted from the array after it was modified by the call to Array#product.
+
+The array is now: [ ['b'], ['b', 2], ['b', 3], ['a', 1], ['a', 2], ['a', 3] ]
+
+2. This code returns the element [1, 2, 3], which was removed from the array. The array is now: [ ['b'], ['a', [1, 2, 3] ] ]
