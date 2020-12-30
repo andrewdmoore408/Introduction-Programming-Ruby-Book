@@ -1,0 +1,7 @@
+# answers to written (non-coding) questions for Hashes
+
+4. person[:name]
+
+6. The difference is the type of key. my_hash's key is a symbol, and my_hash2's key is the string "hi there" (which was referenced by the variable named x)
+
+7. B--No method called keys. (Arrays don't have keys).
