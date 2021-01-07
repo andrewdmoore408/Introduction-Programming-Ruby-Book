@@ -1,0 +1,3 @@
+The block will print the text? Unknown return...?
+
+CORRECT ANSWER: The method returns a Proc object; nothing is printed because the block is never called using .call.
