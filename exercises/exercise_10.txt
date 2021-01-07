@@ -1,0 +1,5 @@
+Yes to both: you can have arrays of hashes and hash values can be arrays.
+
+hash = { 1: ['a', 'b', 'c'], 2: ['b', 'c', 'd'] }
+
+arr = [ {a:1, b: 2}, {c: 3, d: 4} ]

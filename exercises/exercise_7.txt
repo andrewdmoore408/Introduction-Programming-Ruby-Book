@@ -1,0 +1,1 @@
+Arrays are ordered and accessed used numeric indices. Hashes are sets of key, value pairs, and the key can be any type of variable. (Hashes were not originally ordered but the order is guaranteed in more recent versions of Ruby).
